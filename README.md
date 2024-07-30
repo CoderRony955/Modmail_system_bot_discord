@@ -40,7 +40,7 @@ pip install discord.py
 #### - Invite the Bot to a Server Generate an OAuth2 URL in the Discord Developer Portal to invite your bot to your server. Then test your bot.
 
 ## Troubleshooting
-- **Bot Not Responding**: Ensure that your bot token is correct and that the bot has the necessary permissions to read and send messages in the specified channel.
+- **Bot Not Responding**: Ensure that your bot token is correct and that the bot has the necessary permissions.
 - **Dependency Issues**: If you encounter issues with dependencies, try running ```pip install -r modmailrequirements.txt``` again and ensure you’re using a compatible Python version.
 
 ## Get in Touch
