@@ -1,0 +1,7 @@
+discord.py
+----------------------------------
+manager_role_ID
+manager_role_ID
+owner-manager_role_ID
+guild/server_ID
+-----------------------------------
